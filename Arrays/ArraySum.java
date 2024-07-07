@@ -9,7 +9,7 @@ public class ArraySum {
                                           	//   Print the Sum of the Integers in an integer Array
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
-		System.out.println("Please enter the ArraySize");
+		System.out.println("Please enter the ArraySize"); //comm
 		int ArraySize = sc.nextInt();
 
 		int[] object = new int[ ArraySize];

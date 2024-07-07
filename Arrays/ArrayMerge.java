@@ -12,7 +12,7 @@ public class ArrayMerge {
 		
 		                    // Array 1
 		Scanner sc = new Scanner (System.in);
-		System.out.println("Please enter the ArraySize1"); //Size
+		System.out.println("Please enter the ArraySize1");  //size
 		int ArraySize1 = sc. nextInt();
 		
 		String [] object1 = new String[ArraySize1];
